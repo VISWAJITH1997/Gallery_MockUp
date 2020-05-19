@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gallery MockUp</string>
+    <string name="dummy_text">Dummy Text</string>
+    <string name="todo">TODO</string>
+</resources>
